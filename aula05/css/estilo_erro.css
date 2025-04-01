@@ -9,16 +9,16 @@
 
 @media (prefers-color-scheme: dark) {
     .custom-bg {
-        background: linear-gradient(to right, #1f2937, #111827);
+        background: linear-gradient(to right, #ffffff, #fcfdff);
         color: white !important;
     }
 
     .custom-btn {
-        background-color: #374151 !important;
+        background-color: #ffffff !important;
         color: white !important;
     }
 
     .custom-btn:hover {
-        background-color: #4b5563 !important;
+        background-color: #e9ecf0 !important;
     }
 }
